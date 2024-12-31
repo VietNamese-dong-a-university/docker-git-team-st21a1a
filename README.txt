@@ -5,7 +5,7 @@ git add backend_nodejs [Thư mục]
 git commit -m "Add backend_nodejs folder" [Tạo phần ghi chú để đẩy lên]
 
 
-# git remote add origin https://github.com/VietNamese-dong-a-university/docker-git-team-st21a1a.git
+###### git remote add origin https://github.com/VietNamese-dong-a-university/docker-git-team-st21a1a.git
 
 # git push -u origin master [đẩy hết lên]
 
@@ -21,3 +21,9 @@ git commit -m "Add backend_nodejs folder" [Tạo phần ghi chú để đẩy l�
     [git branch -m master main]()
     [git push --set-upstream origin main]()
 ]
+
+
+# Docder Hub 
+Dockerfile
+# [ Image Backend (BE) ]()
+# []
