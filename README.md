@@ -1,6 +1,7 @@
 # Git Hub
 ### Create Git
-```git init```Tạo
+```git init```
+
 # git add . [Thêm Tất Cả các file]
 # git status [Xem Lại Đã Thêm Vào Git]
 # git add backend_nodejs [Thêm Thư mục]

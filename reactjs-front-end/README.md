@@ -6,8 +6,10 @@
 
 # Use it if you want! 🥇
 
- - docker ps check CONTAINER Runing 😄
- ```docker ps```
+docker ps check CONTAINER Runing 😄
+```bash
+docker ps
+```
 
  - Stop docker runing CONTAINER ID 😁
  ```docker stop <Your CONTAINER ID>```
