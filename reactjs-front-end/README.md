@@ -11,12 +11,10 @@ docker ps check CONTAINER Runing 😄
 docker ps
 ```
 Stop docker runing CONTAINER ID 😁
- ```docker stop <Your CONTAINER ID>```
-
- - Delete docker CONTAINER ID 😂
+```docker stop <Your CONTAINER ID>```
+Delete docker CONTAINER ID 😂
  ```docker rm <Your CONTAINER ID>```
-
-
+ 
  ```Delete All docker CONTAINER ID 🤣```
  - docker rm $(docker ps -aq)
 
