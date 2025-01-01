@@ -1,9 +1,12 @@
 **LuongQuangHung🎁**
 
 # Run 👑
- - docker build -t reactjs-front-end .
- - docker run -p 3000:3000 reactjs-front-end
-
+```bash
+ docker build -t reactjs-front-end .
+```
+ ```bash
+ docker run -p 3000:3000 reactjs-front-end
+```
 # Use it if you want! 🥇
 
 docker ps check CONTAINER Runing 😄
