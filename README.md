@@ -1,11 +1,11 @@
-# git init [Tạo]
+# Git Hub
+### Create Git
+```git init```Tạo
 # git add . [Thêm Tất Cả các file]
 # git status [Xem Lại Đã Thêm Vào Git]
-# git add backend_nodejs [Thư mục]
+# git add backend_nodejs [Thêm Thư mục]
 # git commit -m "Add backend_nodejs folder" [Tạo phần ghi chú để đẩy lên]
-
-
-###### git remote add origin https://github.com/VietNamese-dong-a-university/docker-git-team-st21a1a.git
+# git remote add origin https://github.com/VietNamese-dong-a-university/docker-git-team-st21a1a.git
 
 # git push -u origin master [đẩy hết lên]
 
@@ -34,7 +34,6 @@ Dockerfile
 ##### docker build -t backend_nodejs .
 ##### docker run -p 3000:3000 backend_nodejs
 
-#### docker build -t truffle-blockchain .
-#### docker run -p 9545:9545 truffle-blockchain
+
 
 

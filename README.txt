@@ -23,7 +23,3 @@ git commit -m "Add backend_nodejs folder" [Tạo phần ghi chú để đẩy l�
 ]
 
 
-# Docder Hub 
-Dockerfile
-# [ Image Backend (BE) ]()
-# []
